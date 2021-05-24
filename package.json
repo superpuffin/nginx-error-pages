@@ -1,0 +1,15 @@
+{
+  "name": "nginx-error-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/superpuffin/nginx-error-pages",
+  "author": "Yorgos Bos <yorgos.bos@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "cssnano": "^5.0.4",
+    "postcss": "^8.3.0",
+    "postcss-cli": "^8.3.1"
+  }
+}
